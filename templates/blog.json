@@ -41,7 +41,7 @@
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
+        "allow_transparent_header": true,
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/i-also-busted-up-my-ankle-pretty-bad-v0-jnmb0vhmdajd1.webp",
